@@ -1,5 +1,5 @@
 ## Implementation
-![Deskripsi Gambar][screencapture-127-0-0-1-8000-2024-10-18-23_21_54](https://github.com/user-attachments/assets/7e7a3d71-ac81-45ec-bd95-2ebaa08d52f7)
+![screencapture-127-0-0-1-8000-2024-10-18-23_21_54](https://github.com/user-attachments/assets/7e7a3d71-ac81-45ec-bd95-2ebaa08d52f7)
 
 
 
